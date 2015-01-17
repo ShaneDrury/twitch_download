@@ -2,7 +2,7 @@ __author__ = 'Flo'
 
 import unittest
 
-from twitch_download import video, twitch
+from lib import twitch, video
 
 
 class MyTestCase(unittest.TestCase):
